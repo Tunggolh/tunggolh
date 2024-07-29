@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=tunggolh&color=green)
+![](https://komarev.com/ghpvc/?username=tunggolh&color=blue)
 
 ## Hello, I'm Marlo 👋
 
