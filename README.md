@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hello, I'm Marlo 👋
 
-<!--
-**Tunggolh/tunggolh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### A Software Engineer with a solid background in backend development using Django and NestJS, and in frontend development with React
 
-Here are some ideas to get you started:
+Junior Software Engineer at [UBX](https://ubx.ph)<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌟 Daily Tools & Technologies: `Django`, `NestJS`, `React`, `Python`, `TypeScript`, `JavaScript`, `SQL`
+- 💻 Passionate about learning new technologies and continuously improving my skills while learning best practices.
+- 🎓 Computer Science Graduate at STI College
+
+Feel free to connect with me on LinkedIn:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://ph.linkedin.com/in/marlo-tunggolh-693230246)
