@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=tunggolh&color=green)
+
 ## Hello, I'm Marlo 👋
 
 #### A Software Engineer with a solid background in backend development using Django and NestJS, and in frontend development with React
