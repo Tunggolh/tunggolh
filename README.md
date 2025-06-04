@@ -4,7 +4,7 @@
 
 #### A Software Engineer with a solid background in backend development using Django and NestJS, and in frontend development with React
 
-Junior Software Engineer at [UBX](https://ubx.ph)<br>
+Junior Software Engineer at [Chromedia](https://www.chromedia.com/)<br>
 
 - 🌟 Daily Tools & Technologies: `Django`, `NestJS`, `React`, `Python`, `TypeScript`, `JavaScript`, `SQL`
 - 💻 Passionate about learning new technologies and continuously improving my skills while learning best practices.
